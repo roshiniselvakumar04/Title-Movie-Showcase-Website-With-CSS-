@@ -1,0 +1,36 @@
+To design and develop a Movie Showcase website using HTML that displays movie details such as movie name, genre, director, poster, and description, allowing users to easily explore different movies. 
+Procedure – Movie Showcase Website Step 1: Creating the Basic HTML Structure 
+The project was started by creating an HTML file using the <!DOCTYPE HTML> declaration along with <html>, <head>, and <body> tags to define the basic structure of the webpage. 
+ 
+Step 2: Setting Website Title 
+Inside the <head> section, the title “Movie Showcase” was added using the <title> tag to identify the webpage in the browser 
+ 
+Step 3: Designing the Home Page 
+The main page was designed with:
+•	Website title displayed using <h1>
+•	A short introduction using <p> 
+•	Horizontal line <hr> for section separation 
+ 
+Step 4: Displaying Movie Details 
+Each movie section was created using:
+•	<h2> tag for movie title
+•	<img> tag to display the movie poster
+•	<p> tag to show genre, director, and description 
+ 
+Step 5: Adding Multiple Movie Sections 
+Multiple movies were displayed by repeating the same structure for each movieand separating them using the <hr> tag for clarity. 
+ 
+Step 6: Final Testing 
+The webpage was tested in a web browser to ensure:
+•	Proper display of movie details
+•	Correct loading of images
+•	Clean and readable layout 
+ 
+Working 
+•	The browser reads the HTML file and displays the content.
+•	The <head> section sets the webpage title.
+•	The <body> section displays movie details.
+•	Headings highlight movie names.
+•	Images visually represent movie posters.
+•	Paragraphs describe movie information.
+•	Horizontal lines separate each movie section for better readability. 
